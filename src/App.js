@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       {/* <Render /> */}
       <h1>Todo Lists</h1>
+      <p>add todo list by typing in the box:</p>
       <Todo />
     </div>
   );

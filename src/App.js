@@ -9,6 +9,7 @@ function App() {
       <h1>Todo Lists</h1>
       <p>add todo list by typing in the box:</p>
       <p>Listing below:</p>
+      <p>main</p>
       <Todo />
     </div>
   );

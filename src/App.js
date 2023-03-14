@@ -10,6 +10,7 @@ function App() {
       <p>add todo list by typing in the box:</p>
       <p>Listing below:</p>
       <p>test1</p>
+      <p>main</p>
       <Todo />
     </div>
   );
